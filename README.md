@@ -1,2 +1,2 @@
 # test
-the demo project
+the demo project for git working and understanding
